@@ -11,7 +11,7 @@
 }
 
 html {
-  cursor: url("img/icon0.png") 37 20, auto;
+  cursor: url("../img/icon0.png") 37 20, auto;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
   font-weight: 400;
   letter-spacing: -0.1vw;
-  background: url("/img/back.jpg") no-repeat;
+  background: url("../img/back.jpg") no-repeat;
   color: rgb(65, 105, 225);
 
   }
@@ -148,7 +148,7 @@ a {
   text-decoration: none;
   color: var(--text-color);
   
-  cursor: url("img/icon1.png") 37 20, auto;
+  cursor: url("../img/icon1.png") 37 20, auto;
 }
 
 a:hover {
